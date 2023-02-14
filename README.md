@@ -24,3 +24,7 @@ Git_Theory
 
 ![](GitHub_VS_Git.jpg)
 
+## How to transfer files from one account to another 
+- First get there git hub repo and clone it to vscode one you have it cloned make your you are in the correct file so you will need to cd into the main file you need. 
+- then you should use this command to push the file tp your account `git push --mirrior  and then have you url with your repo at the end`
+- then run this and it should push everything to your account 
